@@ -4,7 +4,7 @@ This is a Solidity Smart Contract that connects financial institutions on a cros
 
 Deployed Contract:
 
-![deployed_contract](execuation_results/deployed_contract.pgn)
+![deployed_contract](execution_results/deployed_contract.pgn)
 
 ---
 

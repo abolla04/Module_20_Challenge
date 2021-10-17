@@ -8,3 +8,26 @@ Deployed Contract:
 
 ---
 
+## Technologies
+
+This contract was written in Solidity 0.5.0
+
+* [solidity](https://docs.soliditylang.org/en/v0.8.9/)
+
+---
+
+## Installation Guide
+
+To run this contract, clone this repository and run the file 'joint_savings.sol' on your computer in the Remix IDE.
+
+---
+
+## Contributors
+
+ABolla
+
+---
+
+## License
+
+MIT
